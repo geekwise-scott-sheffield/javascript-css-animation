@@ -1,0 +1,29 @@
+/*opacity*/
+
+.opacity_thirty_percent{
+    opacity: .3;
+}
+
+/*----------------------------------------*/
+
+
+/*
+background colors
+*/
+
+/*
+shades of grey
+*/
+
+.light_grey_background{
+    background-color: #f1f4f7;
+}
+
+
+/*
+shades of purple
+*/
+
+.medium_purple_background{
+    background-color: #958cs2;
+}
